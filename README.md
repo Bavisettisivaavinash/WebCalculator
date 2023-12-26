@@ -1,2 +1,2 @@
 # WebCalculator
-Calculator using Html, Css and Java-Script.
+Calculator using HTML and CSS.
